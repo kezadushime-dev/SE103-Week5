@@ -1,0 +1,12 @@
+Student Name: Iyaremye Dushime Keza Kevin
+What I practiced in the shell:
+In this project, I practiced advanced shell operations including input and output redirection, piping commands, searching files with grep, locating files with find, and using wildcards safely. I learned how to save output directly into files for review and structure workspace directories systematically. Mastering these commands helped me understand how stream processing works in Unix environments. Working through these tasks built my confidence in navigating and managing files purely through terminal commands.
+
+How GitHub changed my submission habits:
+Submitting through GitHub changed my workflow from simply completing tasks locally to maintaining a clean, structured repository history. I learned that every submission requires precise branch management, atomic commits, and deliberate commit messaging. Version control forces me to double-check my file placement and directory structure before pushing code. It makes my work traceable, organized, and easily verifiable by automated checkers.
+
+One mistake I made and how I fixed it:
+One mistake I made was running Linux commands like ls inside standard Windows Command Prompt, which resulted in unrecognized command errors. I fixed this by using the Windows-equivalent command dir /b to perform the wildcard file listing and redirect output properly. This experience taught me the difference between shell environments and how terminal programs interpret commands.
+
+Why the repository name had to be exactly SE103-Week5:
+The repository name had to be exactly SE103-Week5 so the automated grading checker could locate and grade the submission without manual intervention. Automated grading pipelines rely on hardcoded URL paths and repository names to pull student work systematically.
