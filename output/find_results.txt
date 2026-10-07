@@ -1,0 +1,3 @@
+C:\Windows\System32\SE103-Week5\shell_practice\alpha.txt
+C:\Windows\System32\SE103-Week5\shell_practice\beta.txt
+C:\Windows\System32\SE103-Week5\shell_practice\journal.txt

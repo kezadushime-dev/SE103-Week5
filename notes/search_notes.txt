@@ -1,0 +1,9 @@
+Student Name: Iyaremye Dushime Keza Kevin 
+What grep helped me do: 
+The search tool allowed me to search through journal.txt specifically for lines containing the word error. It filtered out irrelevant lines and highlighted key logs quickly. 
+What find helped me do: 
+The find command searched through the directory structure to locate all files ending with the .txt extension. It helped me locate specific file types across the folder structure. 
+What the pipe helped me do: 
+The pipe operator allowed me to pass the output of the directory listing directly as input into the search tool. This filtered directory contents on the fly without saving temporary files. 
+Difference between > and >: 
+The > operator overwrites the target file completely with new content. The >> operator appends new output to the end of the existing file without erasing previous text. 
