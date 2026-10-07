@@ -1,0 +1,7 @@
+Student Name: Iyaremye Dushime Keza Kevin
+GitHub Username: kezadushime-dev
+Repository: SE103-Week5
+Repository URL: https://github.com/kezadushime-dev/SE103-Week5
+All required files are on main: Yes
+One thing I would improve next time:
+Next time, I would perform all shell tasks within a native Git Bash or Linux terminal environment from the beginning. This would eliminate cross-platform command syntax errors like attempting to run Unix ls in Windows Command Prompt. Standardizing on a single terminal environment will streamline my local workflow and make command execution faster and less error-prone.
