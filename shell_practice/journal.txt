@@ -1,0 +1,6 @@
+Project owner: Iyaremye Dushime Keza Kevin 
+Started shell practice for SE103-Week5 
+Started shell practice for SE103-Week5 
+First attempt had an error in my command 
+I fixed it and got a success result 
+Saving outputs helps me review later 

@@ -1,0 +1,11 @@
+ Volume in drive C has no label.
+ Volume Serial Number is 7C86-C7BC
+
+ Directory of C:\Windows\System32\SE103-Week5\shell_practice
+
+10/07/2026  11:37 AM    <DIR>          .
+10/07/2026  11:34 AM    <DIR>          ..
+10/07/2026  11:35 AM                 0 .gitkeep
+10/07/2026  11:37 AM               247 journal.txt
+               2 File(s)            247 bytes
+               2 Dir(s)  101,995,556,864 bytes free
