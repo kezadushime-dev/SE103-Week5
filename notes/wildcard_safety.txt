@@ -1,0 +1,9 @@
+Student Name: Iyaremye Dushime Keza Kevin
+What * meant in my pattern:
+In the pattern data*.txt, the asterisk (*) acted as a wildcard matching any character sequence between "data" and ".txt". This allowed the shell to instantly group data1.txt, data2.txt, and data3.txt together.
+
+Why I listed matches before copying:
+Listing matches first with ls allows me to inspect exactly which files the wildcard expansion expands to before executing a modification command. This verification step ensures I do not accidentally operate on unintended files that happen to share a similar naming pattern.
+
+Why wildcards are dangerous with delete commands:
+Wildcards expand automatically before the command executes, meaning a misplaced asterisk or typo like rm * .txt instead of rm *.txt can permanently wipe entire directories. Because terminal delete operations bypass the trash bin and cannot be undone easily, running unverified wildcard deletions carries a high risk of catastrophic data loss.
